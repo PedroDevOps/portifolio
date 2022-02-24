@@ -1,0 +1,5 @@
+# Python files
+*.pytest*
+
+# Folders
+Examples_MD
