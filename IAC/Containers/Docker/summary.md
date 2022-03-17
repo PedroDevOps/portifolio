@@ -7,10 +7,11 @@ This is my portifolio with all my knowledge and projects realted specifically to
 
 ## Projects and Repositories ##
 
-1.  [Uncomplicating Docker](https://github.com/badtuxx/DescomplicandoKubernetes)
+1.  [Uncomplicating Docker](https://github.com/PedroDevOps/DescomplicandoKubernetes)
     1.  * [ ] 💥 Refactor the repositorie
 2.  [Docker: Containers Administration - DCA](https://github.com/PedroDevOps/540)
     1.  * [ ] 💥 Refactor the repositorie
+3.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
 
 ## Courses & Certifications ##
 
@@ -24,11 +25,17 @@ This is my portifolio with all my knowledge and projects realted specifically to
 
 
 ## Badges ##
-<img src="images/container_expert_linux_tips_badge.png" width="100" height="100">
-<img src="images/uncomplicating_docker_linux_tips_badge.png" width="100" height="100">
-<img src="images/Docker_Essentials_IBM_ISDN.png" width="100" height="100">
-
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="images/container_expert_linux_tips_badge.png" width="100" height="100" align="left" /></td>
+  <td><img src= "images/uncomplicating_docker_linux_tips_badge.png" width="100" height="100" align="left"  /></td>
+  <td><img src="images/Docker_Essentials_IBM_ISDN.png" width="100" height="100" align="left" /></td>
+  </tr>
+</table>
 
 ## Badges Wallets & Accounts ##
 1.  [Credly](https://www.credly.com/users/pedro-o-azevedo/badges)
 2.  [Accredible Credential.net](https://sgq.io/nBjo4og)
+
+
+
