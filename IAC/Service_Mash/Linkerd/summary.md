@@ -1,9 +1,9 @@
-# LXC #
-This is my portifolio with all my knowledge and projects realted to LXC
+# Linkerd #
+This is my portifolio with all my knowledge and projects realted to Linkerd
 
 ## 🌐 Oficial Documentation ##
-1. [LXC](https://linuxcontainers.org/)
-2. [LXC docs](https://linuxcontainers.org/lxc/introduction/)
+1. [Linkerd](https://linkerd.io/)
+2. [Linkerd docs](https://linkerd.io/2.11/overview/)
 
 ---
 

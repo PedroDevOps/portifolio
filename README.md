@@ -37,15 +37,14 @@ The structure chosen to highlight all my knowledge base and skills was based on 
     * [Ubuntu]()
     * [CentOS]()
     * [RHEL]()
-    * [RedHat]()
   * [Unix](Operational_Systems/)
     * [FreeBSD]()
     * [OpenBSD]()
     * [NetBSD]
   * [Windows](Operational_Systems/)
 * [Terminal utilization]()
-  * [Bash scripting]()
-  * [Vim/Nano]()
+  * ⭐[Bash scripting]()
+  * ⭐[Vim/Nano]()
   * [Compiling apps from source]()
   * [System Performance]()
   * [Text Manipulation Tools]()
@@ -76,13 +75,13 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [Load Balancer]()
   * [Web Servers]()
     * [IIS]()
-    * [Nginx]()
+    * ⭐[Nginx]()
     * [Apache]()
     * [Tomcat]()
     * [Caddy]()
 * [IAC](IAC/summary.md)
   * [Containers](IAC/Containers/summary.md)
-    * [Docker](IAC/Containers/Docker/summary.md)
+    * ⭐[Docker](IAC/Containers/Docker/summary.md)
     * [LXC](IAC/Containers/LXC/summary.md)
   * [Configuration Management](IAC/Configuration_Management/summary.md))
     * ⭐[Ansible](IAC/Configuration_Management/Ansible/summary.md)
@@ -90,15 +89,15 @@ The structure chosen to highlight all my knowledge base and skills was based on 
     * [Chef](IAC/Configuration_Management/Chef/summary.md)
     * [Puppet](IAC/Configuration_Management/Puppet/summary.md)
   * [Container Orchestration](IAC/Container_Orchestration/summary.md)
-    * [Kubernetes]()
-    * [Mesos]()
-    * [Docker Swarm]()
-    * [Nomad]()
+    * ⭐[Kubernetes](IAC/Container_Orchestration/Kubernetes/summary.md)
+    * [Mesos](IAC/Container_Orchestration/Mesos/summary.md)
+    * [Docker Swarm](IAC/Container_Orchestration/Docker_Swarm/summary.md)
+    * [Nomad](IAC/Container_Orchestration/Nomad/summary.md)
   * [Service Mash](IAC/Service_Mash/summary.md)
-    * [Istio]()
-    * [Envoy]()
-    * [Linkerd]()
-    * [Consul]()
+    * ⭐[Istio](IAC/Service_Mash/Istio/summary.md)
+    * [Envoy](IAC/Service_Mash/Envoy/summary.md)
+    * [Linkerd](IAC/Service_Mash/Linkerd/summary.md)
+    * [Consul](IAC/Service_Mash/Consul/summary.md)
 * [CI/CD]()
   * [Gitlab]()
   * [GitHub Actions]()
@@ -109,25 +108,25 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [TeamCity]()
   * [Circle CI]()
 * [Infraestructure Provisioning]()
-  * [Terraform]()
+  * ⭐[Terraform]()
   * [CloudFormation]()
   * [Pulumi]()
 * [Monitoring Software and Infraestructure]()
   * [Infraestructure Monitoring]()
-    * [Prometheus]()
+    * ⭐[Prometheus]()
     * [Nagios]()
-    * [Grafana]()
+    * ⭐[Grafana]()
     * [Zabbix]()
     * [Monit]()
     * [Datadog]()
   * [Aplication Monitoring]()
-    * [Jaeger]()
+    * ⭐[Jaeger]()
     * [New Relic]()
     * [App Dynamics]()
     * [Istana]()
     * [OpenTracing]()
 * [Cloud Providers]()
-  * [AWS]()
+  * ⭐[AWS]()
   * [Google Cloud]()
   * [Azure]()
   * [Heroku]()
@@ -138,12 +137,24 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [Availability]()
   * [Data Management]()
   * [Desing and Implementation]()
-  * [Management and Monitoring]() 
+  * [Management and Monitoring]()
+* [Others](Others/summary.md)
+  * [Git](Others/Git/summary.md)
 
 ## Latest courses ##
 
-## Certifications & Badges ##
+## Certifications ##
 
+## Badges ##
+<table width="100%" border="0">
+  <tr>    
+    <td><img src="IAC/Containers/Docker/images/container_expert_linux_tips_badge.png" width="100" height="100" align="left" /></td>
+    <td><img src="IAC/Containers/Docker/images/uncomplicating_docker_linux_tips_badge.png" width="100" height="100" align="left"  /></td>
+    <td><img src="IAC/Container_Orchestration/Kubernetes/images/Uncomplicating_kubernetes_LinuxTIPS_Badge.png" width="100" height="100" align="left"  /></td>
+    <td><img src="IAC/Service_Mash/Istio/images/Uncomplicating_istio_LinuxTIPS_Badge.png" width="100" height="100" align="left"  /></td>
+    <td><img src="IAC/Containers/Docker/images/Docker_Essentials_IBM_ISDN.png" width="100" height="100" align="left" /></td>
+  </tr>
+</table>
 
 ## 🚧 TO-DO List 🚧 ##
 <!-- TO-DO List -->
