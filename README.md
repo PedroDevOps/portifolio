@@ -148,11 +148,12 @@ The structure chosen to highlight all my knowledge base and skills was based on 
 ## Badges ##
 <table width="100%" border="0">
   <tr>    
-    <td><img src="IAC/Containers/Docker/images/container_expert_linux_tips_badge.png" width="100" height="100" align="left" /></td>
-    <td><img src="IAC/Containers/Docker/images/uncomplicating_docker_linux_tips_badge.png" width="100" height="100" align="left"  /></td>
-    <td><img src="IAC/Container_Orchestration/Kubernetes/images/Uncomplicating_kubernetes_LinuxTIPS_Badge.png" width="100" height="100" align="left"  /></td>
-    <td><img src="IAC/Service_Mash/Istio/images/Uncomplicating_istio_LinuxTIPS_Badge.png" width="100" height="100" align="left"  /></td>
-    <td><img src="IAC/Containers/Docker/images/Docker_Essentials_IBM_ISDN.png" width="100" height="100" align="left" /></td>
+    <td><img src="IAC/Containers/Docker/images/container_expert_linux_tips_badge.png" height="100" /></td>
+    <td><img src="IAC/Containers/Docker/images/uncomplicating_docker_linux_tips_badge.png" height="100" /></td>
+    <td><img src="IAC/Container_Orchestration/Kubernetes/images/Uncomplicating_kubernetes_LinuxTIPS_Badge.png"  height="100" /></td>
+    <td><img src="IAC/Service_Mash/Istio/images/Uncomplicating_istio_LinuxTIPS_Badge.png"  height="100"  /></td>
+    <td><img src="IAC/Containers/Docker/images/Docker_Essentials_IBM_ISDN.png" height="100"  /></td>
+    <td><img src="Cloud_Providers/Oracle_Cloud/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"  height="100" /></td>
   </tr>
 </table>
 

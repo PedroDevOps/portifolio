@@ -1,15 +1,15 @@
-# Oracle Cloud Infrastructure (OCI) #
-This is my portifolio with all my knowledge and projects realted to Oracle Cloud Infrastructure (OCI)
+# Google Cloud Plataform (GCP) #
+This is my portifolio with all my knowledge and projects realted to Google Cloud Plataform (GCP)
 
 ## 🌐 Oficial Documentation ##
-1. [OCI](https://www.oracle.com/cloud/)
-2. [OCI docs](https://docs.oracle.com/en-us/iaas/Content/home.htm)
+1. [GCP](https://cloud.google.com/)
+2. [GCP docs](https://cloud.google.com/docs)
 
 ---
 
 ## Projects and Repositories ##
 
-1.  [OCI]()
+1.  [GCP]()
     1.  * [ ] 💥 Refactor the repositorie
 2.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
 
@@ -17,14 +17,15 @@ This is my portifolio with all my knowledge and projects realted to Oracle Cloud
 
 ## Courses & Certifications ##
 
-1. [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=73F5DC1E0C56ADF384C44664EBA011D5D00CA2CC685C6EF42B56BA512D28F5F0)
+1. [GCP]()
+   1. * [ ] 💥 Finishe the coursera course
 
 ---
 
 ## Badges ##
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"  height="100" /></td>
+  <td><img src=""  height="100" /></td>
   <td><img src="" height="100" align="left"  /></td>
   <td><img src="" height="100" align="left" /></td>
   </tr>
