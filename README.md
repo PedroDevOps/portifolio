@@ -30,20 +30,20 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [Memory & storage]()
   * [File Systems]()
 * [Operation Systems](Operational_Systems/summary.md)
-  * [Linux](Operational_Systems/)
+  * [Linux](Operational_Systems/Linux/summary.md)
     * ⭐[Suse Linux]()
     * [Debian]()
     * [Fedora]()
     * [Ubuntu]()
     * [CentOS]()
     * [RHEL]()
-  * [Unix](Operational_Systems/)
+  * [Unix](Operational_Systems/Unix/summary.md)
     * [FreeBSD]()
     * [OpenBSD]()
-    * [NetBSD]
-  * [Windows](Operational_Systems/)
-* [Terminal utilization]()
-  * ⭐[Bash scripting]()
+    * [NetBSD]()
+  * [Windows](Operational_Systems/Windows/summary.md)
+* [Terminal utilization](Terminal_Utilization/summary.md)
+  * ⭐[Bash scripting](Terminal_Utilization/Bash_scripting/summary.md)
   * ⭐[Vim/Nano]()
   * [Compiling apps from source]()
   * [System Performance]()
@@ -125,14 +125,14 @@ The structure chosen to highlight all my knowledge base and skills was based on 
     * [App Dynamics]()
     * [Istana]()
     * [OpenTracing]()
-* [Cloud Providers]()
-  * ⭐[AWS]()
-  * [Google Cloud]()
-  * [Azure]()
-  * [Heroku]()
-  * [Oracle Cloud]()
-  * [IBM Cloud]()
-  * [Alibaba Cloud]()
+* [Cloud Providers](Cloud_Providers/summary.md)
+  * ⭐[AWS](Cloud_Providers/AWS/sumamary.md)
+  * [Google Cloud](Cloud_Providers/Google_Cloud/sumamary.md)
+  * [Azure](Cloud_Providers/Azure/sumamary.md)
+  * [Heroku](Cloud_Providers/Heroku/sumamary.md)
+  * [Oracle Cloud](Cloud_Providers/Oracle_Cloud/sumamary.md)
+  * [IBM Cloud](Cloud_Providers/IBM_Cloud/sumamary.md)
+  * [Alibaba Cloud](Cloud_Providers/Alibaba_Cloud/sumamary.md)
 * [Cloud Desing Patterns]()
   * [Availability]()
   * [Data Management]()
@@ -141,9 +141,9 @@ The structure chosen to highlight all my knowledge base and skills was based on 
 * [Others](Others/summary.md)
   * [Git](Others/Git/summary.md)
 
-## Latest courses ##
+## Latest Courses ##
 
-## Certifications ##
+## Latest Certifications ##
 
 ## Badges ##
 <table width="100%" border="0">
@@ -154,12 +154,15 @@ The structure chosen to highlight all my knowledge base and skills was based on 
     <td><img src="IAC/Service_Mash/Istio/images/Uncomplicating_istio_LinuxTIPS_Badge.png"  height="100"  /></td>
     <td><img src="IAC/Containers/Docker/images/Docker_Essentials_IBM_ISDN.png" height="100"  /></td>
     <td><img src="Cloud_Providers/Oracle_Cloud/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"  height="100" /></td>
+    <td><img src="Cloud_Providers/Azure/images/azure-fundamentals-600x600.png"  height="100" /></td>
+    <td><img src="Others/Git/GitLab/images/gitlab_certified_Badge.png"  height="100" /></td>
   </tr>
 </table>
 
+
 ## 🚧 TO-DO List 🚧 ##
 <!-- TO-DO List -->
-* [ ] ...
+* [ Review links ] ...
 * [ ] ...
 * [ ] ...
 * [ ] ...

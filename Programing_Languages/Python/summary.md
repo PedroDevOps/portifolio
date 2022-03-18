@@ -2,22 +2,24 @@
 This is my portifolio with all my knowledge and projects realted to Python
 
 ## 🌐 Oficial Documentation ##
-1. [Python](https://www.oracle.com/cloud/)
-2. [Python docs](https://docs.oracle.com/en-us/iaas/Content/home.htm)
+1. [Python](https://www.python.org/)
+2. [Python docs](https://www.python.org/doc/)
 
 ---
 
 ## Projects and Repositories ##
 
-1.  [Python]()
-    1.  * [ ] 💥 Refactor the repositorie
-2.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
+   
+1.  [100 days of code with python](https://github.com/PedroDevOps/100days-of-code-python.git)
+2.  * [ ] 💥 need to finishe it (TO-DO)
 
 ---
 
 ## Courses & Certifications ##
 
-1. [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=73F5DC1E0C56ADF384C44664EBA011D5D00CA2CC685C6EF42B56BA512D28F5F0)
+1. [Google IT Automation with Python Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LAME48WRKJGQ)
+   1.  * [ ] 💥 change link
+2. [Python For Everyone](https://www.coursera.org/account/accomplishments/specialization/436NLBL87Y8U) 
 
 ---
 
