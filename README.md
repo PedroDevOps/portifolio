@@ -30,22 +30,21 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [Memory & storage]()
   * [File Systems]()
 * [Operation Systems](Operational_Systems/summary.md)
-  * [Linux](Operational_Systems/)
+  * [Linux](Operational_Systems/Linux/summary.md)
     * ⭐[Suse Linux]()
     * [Debian]()
     * [Fedora]()
     * [Ubuntu]()
     * [CentOS]()
     * [RHEL]()
-    * [RedHat]()
-  * [Unix](Operational_Systems/)
+  * [Unix](Operational_Systems/Unix/summary.md)
     * [FreeBSD]()
     * [OpenBSD]()
-    * [NetBSD]
-  * [Windows](Operational_Systems/)
-* [Terminal utilization]()
-  * [Bash scripting]()
-  * [Vim/Nano]()
+    * [NetBSD]()
+  * [Windows](Operational_Systems/Windows/summary.md)
+* [Terminal utilization](Terminal_Utilization/summary.md)
+  * ⭐[Bash scripting](Terminal_Utilization/Bash_scripting/summary.md)
+  * ⭐[Vim/Nano]()
   * [Compiling apps from source]()
   * [System Performance]()
   * [Text Manipulation Tools]()
@@ -76,29 +75,29 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [Load Balancer]()
   * [Web Servers]()
     * [IIS]()
-    * [Nginx]()
+    * ⭐[Nginx]()
     * [Apache]()
     * [Tomcat]()
     * [Caddy]()
 * [IAC](IAC/summary.md)
   * [Containers](IAC/Containers/summary.md)
-    * [Docker](IAC/Containers/Docekr/summary.md)
+    * ⭐[Docker](IAC/Containers/Docker/summary.md)
     * [LXC](IAC/Containers/LXC/summary.md)
-  * [Configuration Management]()
-    * [Ansible]()
-    * [Salt]()
-    * [Chef]()
-    * [Puppet]()
-  * [Container Orchestration]()
-    * [Kubernetes]()
-    * [Mesos]()
-    * [Docker Swarm]()
-    * [Nomad]()
-  * [Service Mash]()
-    * [Istio]()
-    * [Envoy]()
-    * [Linkerd]()
-    * [Consul]()
+  * [Configuration Management](IAC/Configuration_Management/summary.md))
+    * ⭐[Ansible](IAC/Configuration_Management/Ansible/summary.md)
+    * [Salt](IAC/Configuration_Management/Salt/summary.md)
+    * [Chef](IAC/Configuration_Management/Chef/summary.md)
+    * [Puppet](IAC/Configuration_Management/Puppet/summary.md)
+  * [Container Orchestration](IAC/Container_Orchestration/summary.md)
+    * ⭐[Kubernetes](IAC/Container_Orchestration/Kubernetes/summary.md)
+    * [Mesos](IAC/Container_Orchestration/Mesos/summary.md)
+    * [Docker Swarm](IAC/Container_Orchestration/Docker_Swarm/summary.md)
+    * [Nomad](IAC/Container_Orchestration/Nomad/summary.md)
+  * [Service Mash](IAC/Service_Mash/summary.md)
+    * ⭐[Istio](IAC/Service_Mash/Istio/summary.md)
+    * [Envoy](IAC/Service_Mash/Envoy/summary.md)
+    * [Linkerd](IAC/Service_Mash/Linkerd/summary.md)
+    * [Consul](IAC/Service_Mash/Consul/summary.md)
 * [CI/CD]()
   * [Gitlab]()
   * [GitHub Actions]()
@@ -109,45 +108,61 @@ The structure chosen to highlight all my knowledge base and skills was based on 
   * [TeamCity]()
   * [Circle CI]()
 * [Infraestructure Provisioning]()
-  * [Terraform]()
+  * ⭐[Terraform]()
   * [CloudFormation]()
   * [Pulumi]()
 * [Monitoring Software and Infraestructure]()
   * [Infraestructure Monitoring]()
-    * [Prometheus]()
+    * ⭐[Prometheus]()
     * [Nagios]()
-    * [Grafana]()
+    * ⭐[Grafana]()
     * [Zabbix]()
     * [Monit]()
     * [Datadog]()
   * [Aplication Monitoring]()
-    * [Jaeger]()
+    * ⭐[Jaeger]()
     * [New Relic]()
     * [App Dynamics]()
     * [Istana]()
     * [OpenTracing]()
-* [Cloud Providers]()
-  * [AWS]()
-  * [Google Cloud]()
-  * [Azure]()
-  * [Heroku]()
-  * [Oracle Cloud]()
-  * [IBM Cloud]()
-  * [Alibaba Cloud]()
+* [Cloud Providers](Cloud_Providers/summary.md)
+  * ⭐[AWS](Cloud_Providers/AWS/sumamary.md)
+  * [Google Cloud](Cloud_Providers/Google_Cloud/sumamary.md)
+  * [Azure](Cloud_Providers/Azure/sumamary.md)
+  * [Heroku](Cloud_Providers/Heroku/sumamary.md)
+  * [Oracle Cloud](Cloud_Providers/Oracle_Cloud/sumamary.md)
+  * [IBM Cloud](Cloud_Providers/IBM_Cloud/sumamary.md)
+  * [Alibaba Cloud](Cloud_Providers/Alibaba_Cloud/sumamary.md)
 * [Cloud Desing Patterns]()
   * [Availability]()
   * [Data Management]()
   * [Desing and Implementation]()
-  * [Management and Monitoring]() 
+  * [Management and Monitoring]()
+* [Others](Others/summary.md)
+  * [Git](Others/Git/summary.md)
 
-## Latest courses ##
+## Latest Courses ##
 
-## Certifications & Badges ##
+## Latest Certifications ##
+
+## Badges ##
+<table width="100%" border="0">
+  <tr>    
+    <td><img src="IAC/Containers/Docker/images/container_expert_linux_tips_badge.png" height="100" /></td>
+    <td><img src="IAC/Containers/Docker/images/uncomplicating_docker_linux_tips_badge.png" height="100" /></td>
+    <td><img src="IAC/Container_Orchestration/Kubernetes/images/Uncomplicating_kubernetes_LinuxTIPS_Badge.png"  height="100" /></td>
+    <td><img src="IAC/Service_Mash/Istio/images/Uncomplicating_istio_LinuxTIPS_Badge.png"  height="100"  /></td>
+    <td><img src="IAC/Containers/Docker/images/Docker_Essentials_IBM_ISDN.png" height="100"  /></td>
+    <td><img src="Cloud_Providers/Oracle_Cloud/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"  height="100" /></td>
+    <td><img src="Cloud_Providers/Azure/images/azure-fundamentals-600x600.png"  height="100" /></td>
+    <td><img src="Others/Git/GitLab/images/gitlab_certified_Badge.png"  height="100" /></td>
+  </tr>
+</table>
 
 
 ## 🚧 TO-DO List 🚧 ##
 <!-- TO-DO List -->
-* [ ] ...
+* [ Review links ] ...
 * [ ] ...
 * [ ] ...
 * [ ] ...
