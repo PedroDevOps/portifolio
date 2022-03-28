@@ -11,14 +11,12 @@ This is my portifolio with all my knowledge and projects realted to Kubernetes (
 
 1.  [Kubernetes for the Absolute Beginners – Hands-on](https://kodekloud.com/courses/docker-swarm-services-stacks-hands-on/)
     1.  * [ ] 💥 Refactor the repositorie
-2.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
-
+2.  [Kubernetes cluster on OCI with Terraform](https://github.com/PedroDevOps/ampernetacle.git)
 ---
 
 ## Courses & Certifications ##
 
-1. [Kubernetes for the Absolute Beginners – Hands-on](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on/)
-   1. * [ ] 💥 Remove the link to the course and link it to my certification
+1. [Kubernetes for the Absolute Beginners – Hands-on](https://kodekloud.com/certificate-verification/7A51559BCD-7A4B5ED328-7A45C540A5/)
 2. [Certified Kubernetes Application Developer (CKAD)](https://kodekloud.com/courses/certified-kubernetes-application-developer-ckad/)
    1. * [ ] 💥 Remove the link to the course and link it to my certification
 3. [Certified Kubernetes Administrator (CKA)](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)

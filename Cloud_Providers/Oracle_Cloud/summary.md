@@ -11,7 +11,7 @@ This is my portifolio with all my knowledge and projects realted to Oracle Cloud
 
 1.  [OCI]()
     1.  * [ ] 💥 Refactor the repositorie
-2.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
+2.  [Kubernetes cluster on OCI with Terraform](https://github.com/PedroDevOps/ampernetacle.git)
 
 ---
 

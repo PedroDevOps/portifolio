@@ -9,16 +9,13 @@ This is my portifolio with all my knowledge and projects realted specifically to
 
 ## Projects and Repositories ##
 
-1.  [Ansible for the Absolute Beginners Course](https://github.com/PedroDevOps/DescomplicandoKubernetes)
-    1.  * [ ] 💥 Refactor the repositorie
-2.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
+1.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
 
 ---
 
 ## Courses & Certifications ##
 
-1. [Ansible for the Absolute Beginners Course](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-couse/)
-   1. * [ ] 💥 Remove the link to the course and link it to my certification
+1. [Ansible for the Absolute Beginners Course](https://kodekloud.com/certificate-verification/7A51559BCD-7A4B505370-7A45C540A5/)
 
 ---
 
