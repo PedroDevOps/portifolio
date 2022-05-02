@@ -11,7 +11,9 @@ This is my portifolio with all my knowledge and projects realted specifically to
     1.  * [ ] 💥 Refactor the repositorie
 2.  [Docker: Containers Administration - DCA](https://github.com/PedroDevOps/540)
     1.  * [ ] 💥 Refactor the repositorie
-3.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
+3.  [Docker Samples: Example Voting App](https://github.com/dockersamples/example-voting-app)
+    1.  * [ ] 💥 Refactor the repositorie
+4.  * [ ] 💥 create some repo examples from docker docs (TO-DO)
 
 ## Courses & Certifications ##
 
@@ -20,8 +22,7 @@ This is my portifolio with all my knowledge and projects realted specifically to
 2. [Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/certificates/a0d12268b2b54a88abb43b23eed2a806)
 3. [Docker: Containers Administration - DCA](https://github.com/4linux/540)
    1. * [ ] 💥 Remove the link to github and link it to my certification
-4. [Kode Kloud](https://kodekloud.com/courses/docker-for-the-absolute-beginner/)
-   1. * [ ] 💥 Remove the link to the course and link it to my certification
+4. [Docker for the Absolute Beginner](https://kodekloud.com/certificate-verification/7A51559BCD-7A4B5ED071-7A45C540A5/)
 
 
 ## Badges ##
