@@ -1,21 +1,21 @@
 # Cloud Providers#
 This is my portifolio with all my knowledge and projects realted to Cloud Providers
 
-## Configuration Management ##
+## AWS ##
 
-* [Configuration_Management](Configuration_Management/summary.md)
+* [AWS](AWS/summary.md)
   
-## Container Orchestration ##
+## Azure ##
 
-* [Container_Orchestration](Container_Orchestration/summary.md)
+* [Azure](Azure/summary.md)
 
-## Containers ##
+## Google_Cloud(GCP) ##
 
-* [Containers](Containers/summary.md)
+* [GCP](GCP/summary.md)
 
-## Service Mash ##
+## Oracle_Cloud(OCI) ##
 
-* [Service_Mash](Service_Mash/summary.md)
+* [OCI](OCI/summary.md)
 
 
 ## Badges ##
